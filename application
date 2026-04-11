@@ -1,0 +1,3 @@
+spring.application.name=EcommAppService
+server.port=8001
+service.info=This service talks about application
